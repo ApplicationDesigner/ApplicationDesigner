@@ -18,3 +18,4 @@ Remove unused imports
 Improve performance
 Polish UI layout
 Fix broken link
+Improve error handling
