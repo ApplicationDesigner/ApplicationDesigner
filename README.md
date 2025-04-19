@@ -26,3 +26,4 @@ Refactor core logic
 Improve performance
 Update dependencies
 Update API endpoint
+Add documentation
