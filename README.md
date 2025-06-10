@@ -22,3 +22,4 @@ Improve error handling
 Fix broken link
 Improve error handling
 Remove unused imports
+Refactor core logic
